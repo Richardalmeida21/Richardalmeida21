@@ -6,6 +6,11 @@
 <hr/>
 
 <p align="center">
+  <img src="./banner.gif" alt="Banner" />
+</p>
+
+
+<p align="center">
 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 em formação como Desenvolvedor Fullstack | Java & Spring | HTML, CSS e JavaScript
 Buscando oportunidades para aplicar meus conhecimentos em projetos reais e evoluir continuamente na área de tecnologia
