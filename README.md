@@ -13,7 +13,7 @@ Me chamo Richard Camargo, tenho 22 anos e sou natural de Tatui-Sp. Atualmente, e
 #
 
 <p align="left">
-    <a href="www.linkedin.com/in/richard-c-dealmeida">
+    <a href="https://www.linkedin.com/in/richard-c-dealmeida/">
         <img 
             src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"
         />
