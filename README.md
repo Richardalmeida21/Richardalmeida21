@@ -71,8 +71,16 @@ Me chamo Richard Camargo, tenho 22 anos e sou natural de Tatuí-SP. Atualmente, 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Richardalmeida21&show_icons=true&theme=aura" alt="GitHub Stats" height="200" style="display:inline-block" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardalmeida21&layout=compact&theme=aura" alt="Top Langs" height="200" style="display:inline-block" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Richardalmeida21&show_icons=true&theme=aura" alt="GitHub Stats" height="200" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardalmeida21&layout=compact&theme=aura" alt="Top Langs" height="200" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 
