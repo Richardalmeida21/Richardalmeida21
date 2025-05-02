@@ -6,7 +6,11 @@
 <hr/>
 
 <p align="center">
-Me chamo Richard Camargo, tenho 22 anos e sou natural de Tatuí-SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia e compartilho meus projetos e aprendizados no meu <a href="https://www.linkedin.com/in/richard-c-dealmeida/" target="_blank">LinkedIn</a>.
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP
+em formação como Desenvolvedor Fullstack | Java & Spring | HTML, CSS e JavaScript
+Buscando oportunidades para aplicar meus conhecimentos em projetos reais e evoluir continuamente na área de tecnologia
+Atualmente me aprofundando em Java, Spring Boot e boas práticas de desenvolvimento backend.
+Sou apaixonado por tecnologia e compartilho meus projetos e aprendizados no meu <a href="https://www.linkedin.com/in/richard-c-dealmeida/" target="_blank">LinkedIn</a>.
 </p>
 
 <br/>
